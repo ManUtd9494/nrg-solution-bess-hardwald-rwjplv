@@ -1,0 +1,9 @@
+# NRG Solution | Batteriespeicher Kieswerk Hardwald | 3D-Machbarkeitsstudie
+
+> Begehbare 3D-Visualisierung eines Grossbatteriespeichers im Kieswerk Hardwald, Unterengstringen ZH: Layout aus Luftbild, Normenprüfung, NISV, Lärm, Peak Shaving. Fiktive Studie.
+
+## Seiten
+
+- [NRG Solution | Batteriespeicher Kieswerk Hardwald | 3D-Machbarkeitsstudie](https://ManUtd9494.github.io/nrg-solution-bess-hardwald-rwjplv/): Begehbare 3D-Visualisierung eines Grossbatteriespeichers im Kieswerk Hardwald, Unterengstringen ZH: Layout aus Luftbild, Normenprüfung, NISV, Lärm, Peak Shaving. Fiktive Studie.
+
+<!-- erzeugt vom CavoraAI Website Builder; eine von Hand gepflegte llms.txt ohne diese Zeile bleibt unverändert -->

@@ -1,0 +1,380 @@
+{
+ "_info": "Semantische Standortdaten (lokale Koordinaten: x = E - 2674035, z = 1250825 - N, y = H - 390). Aus Luftbild SWISSIMAGE 2025, OEREB-Kataster ZH und eigener Interpretation. Positionen mit 'annahme': true sind vor Ort zu prüfen.",
+ "werkstrasse": [
+  [
+   -30,
+   -42
+  ],
+  [
+   -23,
+   -28
+  ],
+  [
+   -21,
+   -10
+  ],
+  [
+   -21,
+   8
+  ],
+  [
+   -22,
+   24
+  ],
+  [
+   -24,
+   36
+  ],
+  [
+   -45,
+   39
+  ],
+  [
+   -58,
+   52
+  ],
+  [
+   -60,
+   80
+  ],
+  [
+   -66,
+   98
+  ],
+  [
+   -82,
+   104
+  ]
+ ],
+ "werkstrasse_breite": 6.0,
+ "nap": {
+  "id": "NAP",
+  "name": "Neue Übergabestation 16 kV (Netzanschlusspunkt, Messung VNB)",
+  "x": -66,
+  "z": 94,
+  "annahme": true
+ },
+ "halls": [
+  {
+   "id": "H1",
+   "name": "Weisse Zelthalle Nord (Lagerhalle, PVC-Membran)",
+   "poly": [
+    [
+     -51.5,
+     4.0
+    ],
+    [
+     -27.0,
+     3.5
+    ],
+    [
+     -27.0,
+     -11.0
+    ],
+    [
+     -51.0,
+     -11.5
+    ]
+   ],
+   "h": 8.5,
+   "roof": "barrel",
+   "brennbar": true,
+   "omen": false
+  },
+  {
+   "id": "H2",
+   "name": "Lagerunterstand (offen, Stahl)",
+   "poly": [
+    [
+     -50.0,
+     16.0
+    ],
+    [
+     -30.0,
+     15.5
+    ],
+    [
+     -30.0,
+     5.0
+    ],
+    [
+     -50.0,
+     5.5
+    ]
+   ],
+   "h": 5.5,
+   "roof": "flat",
+   "brennbar": false,
+   "omen": false
+  },
+  {
+   "id": "H3",
+   "name": "Lagerhalle grau",
+   "poly": [
+    [
+     -50.0,
+     29.5
+    ],
+    [
+     -37.0,
+     29.0
+    ],
+    [
+     -37.0,
+     18.0
+    ],
+    [
+     -50.0,
+     18.0
+    ]
+   ],
+   "h": 7.0,
+   "roof": "flat",
+   "brennbar": false,
+   "omen": false
+  },
+  {
+   "id": "H4",
+   "name": "Weisse Zelthalle Süd (Lagerhalle, PVC-Membran)",
+   "poly": [
+    [
+     -28.0,
+     41.0
+    ],
+    [
+     -10.0,
+     46.0
+    ],
+    [
+     -18.0,
+     68.0
+    ],
+    [
+     -35.0,
+     63.0
+    ]
+   ],
+   "h": 9.0,
+   "roof": "barrel",
+   "brennbar": true,
+   "omen": false
+  },
+  {
+   "id": "H5",
+   "name": "Lagerhalle grau Süd",
+   "poly": [
+    [
+     -42.0,
+     69.0
+    ],
+    [
+     -20.0,
+     76.0
+    ],
+    [
+     -24.0,
+     91.0
+    ],
+    [
+     -45.0,
+     86.0
+    ]
+   ],
+   "h": 8.0,
+   "roof": "mono",
+   "brennbar": false,
+   "omen": false
+  },
+  {
+   "id": "H6",
+   "name": "Materialboxen mit Dach",
+   "poly": [
+    [
+     -57.0,
+     -33.0
+    ],
+    [
+     -30.0,
+     -33.0
+    ],
+    [
+     -30.0,
+     -22.0
+    ],
+    [
+     -57.0,
+     -22.0
+    ]
+   ],
+   "h": 6.0,
+   "roof": "flat",
+   "brennbar": false,
+   "omen": false
+  }
+ ],
+ "piles": [
+  {
+   "id": "KH-N",
+   "name": "Kieshalde Nord",
+   "poly": [
+    [
+     -22,
+     -52
+    ],
+    [
+     28,
+     -52
+    ],
+    [
+     24,
+     -28
+    ],
+    [
+     -16,
+     -28
+    ]
+   ],
+   "h": 7
+  },
+  {
+   "id": "KH-S",
+   "name": "Kieshalde Süd / Boxen",
+   "poly": [
+    [
+     -25,
+     28
+    ],
+    [
+     2,
+     30
+    ],
+    [
+     6,
+     40
+    ],
+    [
+     -24,
+     39
+    ]
+   ],
+   "h": 4
+  }
+ ],
+ "omen": [
+  {
+   "id": "O1",
+   "name": "Steuerkabine Asphaltmischwerk (Dauerarbeitsplatz, Annahme)",
+   "x": -108,
+   "z": -26,
+   "y": 4,
+   "annahme": true
+  },
+  {
+   "id": "O2",
+   "name": "Betriebsgebäude / Waage Werk Hardwald (Büro, Annahme)",
+   "x": -112,
+   "z": 46,
+   "y": 1.5,
+   "annahme": true
+  },
+  {
+   "id": "O3",
+   "name": "Werkstatt Kieswerk (Dauerarbeitsplatz, Annahme)",
+   "x": -150,
+   "z": 30,
+   "y": 1.5,
+   "annahme": true
+  },
+  {
+   "id": "O4",
+   "name": "Büroraum Autohandel (Container)",
+   "x": -42,
+   "z": 116,
+   "y": 1.5,
+   "annahme": true
+  }
+ ],
+ "receptors": [
+  {
+   "id": "R1",
+   "name": "Büroraum Autohandel (Betriebsraum)",
+   "x": -42,
+   "z": 116,
+   "es": "III",
+   "betriebsraum": true
+  },
+  {
+   "id": "R2",
+   "name": "Golfclub Unterengstringen, Clubhaus",
+   "x": -262,
+   "z": 42,
+   "es": "III",
+   "betriebsraum": false
+  },
+  {
+   "id": "R3",
+   "name": "Gewerbe Werkhof / Loxam (Betriebsraum)",
+   "x": -259,
+   "z": -192,
+   "es": "III",
+   "betriebsraum": true
+  },
+  {
+   "id": "R4",
+   "name": "Nächste Wohnnutzung Unterengstringen",
+   "x": -395,
+   "z": -250,
+   "es": "II",
+   "betriebsraum": false
+  },
+  {
+   "id": "R5",
+   "name": "Steuerkabine Asphaltmischwerk (eigener Betrieb)",
+   "x": -108,
+   "z": -26,
+   "es": "III",
+   "betriebsraum": true
+  }
+ ],
+ "hydranten": [
+  {
+   "id": "HY1",
+   "x": -98,
+   "z": 108,
+   "name": "Hydrant Überlandstrasse (Annahme)",
+   "annahme": true
+  },
+  {
+   "id": "HY2",
+   "x": -150,
+   "z": 0,
+   "name": "Hydrant Werkareal (Annahme)",
+   "annahme": true
+  }
+ ],
+ "alternativen": [
+  {
+   "id": "ALT-W",
+   "name": "Ersatzfeld West auf dem Werkplatz (westlich der Waldabstandslinie)",
+   "poly": [
+    [
+     -108,
+     58
+    ],
+    [
+     -68,
+     58
+    ],
+    [
+     -68,
+     76
+    ],
+    [
+     -108,
+     76
+    ]
+   ],
+   "hinweis": "Heute Verkehrs- und Abstellfläche des Werks. Betriebsablauf (Lkw-Wege Asphaltwerk) mit dem Betreiber klären."
+  }
+ ]
+}

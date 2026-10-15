@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ManUtd9494.github.io/nrg-solution-bess-hardwald-rwjplv/sitemap.xml
